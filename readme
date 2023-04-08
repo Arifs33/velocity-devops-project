@@ -1,0 +1,7 @@
+create ssh connection bet all master and slave.
+install java git jenkins tomcat na dmaven in jenkins maste machine with Service account.
+install java git docker and dockercompose on slave machine.
+give appropritate permeisssion to mny.
+build
+copy deploy 
+shutdown
